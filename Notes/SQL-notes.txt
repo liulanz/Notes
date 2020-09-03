@@ -1,0 +1,33 @@
+https://www.youtube.com/watch?v=HXV3zeQKqGY&feature=youtu.be
+
+SQL Notes
+=============================
+- database management systems
+	- a special software program that helps users create and maintain a database
+		
+
+[Two types of database]
+= Relational Databases (SQL)
+	- example for relational database system: mySQL
+	- Orgranize data into one or more table
+		- each table has columns and rows
+		- a unique key identifies each rows
+	- uses structured query language (SQL)
+		- language we can use to interact with those relational database systems
+	
+		
+= NON-relational (noSQL)
+	- Key-value stores
+	- documents(JSON, XML, etc)
+	- Graphs
+	- example for relational database system: mongoDB
+	
+===================================
+We use SQL to interact with database management systems
+= Query is a set of instructions given to the RDBMS written in SQL that tells the RDBMS what information you want it to retrieve for you
+	example: "SELECT employee.name, employee.age FROM employee WHERE employee.salary > 30000;"
+	
+=mySQL
+video 54:25
+
+	
